@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "mostfamousandroiddevinhamburg",
+    "dev": "mostfamousandroiddevinhamburg",
+    "prod": "mostfamousandroiddevinhamburg"
+  }
+}
